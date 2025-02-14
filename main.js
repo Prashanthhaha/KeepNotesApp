@@ -31,7 +31,6 @@
 		li.appendChild(span);
 
 		// STORE SAVED NOTES IN LOCAL STORAGE
-		// Get the editable element
 		let editElement = document.querySelector("#saved-notes");
 		editElement = document.querySelector("#myNotes");
 		// Get the edited element content
